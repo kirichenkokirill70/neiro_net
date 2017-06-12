@@ -1,0 +1,10 @@
+C:\Users\kiric\is_lab_kir\ProjectText\bin\Debug\NeiroNet1.exe.config
+C:\Users\kiric\is_lab_kir\ProjectText\bin\Debug\NeiroNet1.exe
+C:\Users\kiric\is_lab_kir\ProjectText\bin\Debug\NeiroNet1.pdb
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\ProjectText.csprojResolveAssemblyReference.cache
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\ProjectText.MainForm.resources
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\NeiroNet1.Properties.Resources.resources
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\ProjectText.ShowMemoryVeight.resources
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\ProjectText.csproj.GenerateResource.Cache
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\NeiroNet1.exe
+C:\Users\kiric\is_lab_kir\ProjectText\obj\Debug\NeiroNet1.pdb
